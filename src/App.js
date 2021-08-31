@@ -5,6 +5,7 @@ import { Button } from 'react-bootstrap';
 import ModalPopup from '../src/Components/ModalComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+// Product Details - Mock Data Instead of this we can get data from API as well
 const item_details = [
   {id:1,itemName:'Jeans',Brand:'Lee-Cooper',price:'299'},
   {id:2,itemName:'shirts',Brand:'Pepe Jeans',price:'199'},
